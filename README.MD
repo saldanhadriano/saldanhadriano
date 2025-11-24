@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://i.imgur.com/7BRIoOW.png" alt=""></h1>
   
-<h3 align="center">Hi 👋, I'm Adriano Saldanha. I'm a computer engineer looking for opportunities and collabaration in projects related to data science, python, C/C++ and also arduino ideas for IoT (which I love).</h3>
+<h3 align="center">Hi 👋, I'm Adriano Saldanha. I'm a computer engineer looking for opportunities and collabaration in projects related to data science, python, C/C++.</h3>
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **saldanha.adriano@hotmail.com**
