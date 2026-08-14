@@ -25,32 +25,32 @@ I enjoy designing scalable data solutions, building intelligent workflows, devel
 
 ### Programming Languages
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python](https://img.shields.io/bn-3776AB?style=for-the-badge&logo=python&logoColor=white
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-https://img.shields.io/badge/SQL-336791?style=for-the-badge
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=us&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badgeata & Analytics
 
-### Data & Analytics
-
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-thepowerbi&logoColor=black
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserverte
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&l&logoColor=white
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-logo=oracle&logoColor=white
 
-### AI & Automation
+### Data Engineering & AI
 
-https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white
-https://img.shields.io/badge/Microsoft_Copilot-5E5E5E?style=for-the-badge
-https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge
-https://img.shields.io/badge/Automation-00A3E0?style=for-the-badge
+![Data Engineering](https://imgta_Engineering-0052CC?style=for-the-badge
+https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+![OpenAI](https://img.shieldsOpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+![AI Agents](https://img.she/AI_Agents-6F42C1?style=for-the-badge
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B35?style=for-the-badge)
+s://img.shields.io/badge/Automationfor-the-badge
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
+![Postman](https://img.shieldsostman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+![Arduino
 
 ---
 
