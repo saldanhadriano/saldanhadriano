@@ -1,96 +1,58 @@
-# Hi there 👋 I'm Adriano Saldanha
+# Adriano Saldanha
 
-### Computer Engineer | Data Engineer | AI & Automation Enthusiast
+### Computer Engineer | Data Engineering | Artificial Intelligence | Automation
 
-I'm a Computer Engineer passionate about transforming data into valuable business insights through Data Engineering, Analytics, Artificial Intelligence, and Automation.
+I am a Computer Engineer focused on building data-driven solutions, intelligent automations, and AI-powered workflows.
 
-I enjoy designing scalable data solutions, building intelligent workflows, developing AI-powered applications, and using technology to solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 💻 Computer Engineer
-- 📊 Working with Data Analytics & Business Intelligence
-- ⚙️ Data Engineering and Data Pipelines
-- 🤖 Generative AI and AI Agents
-- 🧠 Process Automation and Productivity Solutions
-- 🐍 Python Developer
-- 🗄️ SQL & Database Enthusiast
-- ☁️ Exploring Cloud Data Platforms
+My work combines Data Engineering, Business Intelligence, Python development, SQL, Generative AI, and AI Agents to transform complex information into practical solutions that generate business value.
 
 ---
 
-## 🚀 Core Expertise
+## About Me
 
-<p>
-  adge/Data_Engineering-0052CC?style=for-the-badge" />
-  .io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img srcimg.shields.io/badge/SQL-336791?style=for-the-badge
-  ://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  /badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412for-the-badge&logo=openai&logoColor=white
-  /badge/AI_Agents-6F42C1?style=for-the-badge" />
-  .shields.io/badge/Automation-00A3E0?style=for-the-badge" />
-</p>
+- Computer Engineer with a strong technical background in software, data, and automation
+- Experience with Data Engineering, Data Analytics, Business Intelligence, and database systems
+- Focused on Artificial Intelligence, Generative AI, AI Agents, and intelligent process automation
+- Skilled in Python, SQL, data pipelines, APIs, dashboards, and automation workflows
+- Interested in scalable data solutions, cloud technologies, and enterprise AI applications
+- Passionate about solving real-world problems through technology, data, and engineering
 
 ---
 
-## 🎯 Areas of Interest
+## Core Technical Skills
 
-- Data Engineering
-- Data Analytics
-- Artificial Intelligence
+### Data Engineering
+
+- Data pipelines
+- ETL and ELT processes
+- Data modeling
+- Data integration
+- Data quality and validation
+- Workflow automation
+- Data transformation
+- Structured and semi-structured data processing
+- SQL-based data processing
+- Analytics-ready data preparation
+
+### Artificial Intelligence and AI Agents
+
 - Generative AI
 - AI Agents
+- Prompt engineering
+- Intelligent automation
+- AI-assisted workflows
+- Retrieval-Augmented Generation concepts
+- LLM-based productivity solutions
+- Multi-step reasoning workflows
+- Business process automation with AI
+- AI applied to data analysis and decision support
+
+### Data Analytics and Business Intelligence
+
 - Business Intelligence
-- Process Automation
-- Machine Learning
-- Cloud Data Solutions
-- Software Development
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=saldanhadriano&show_icons=true&theme=tokyonight&count_private=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=saldanhadriano&layout=compact&theme=tokyonight
-</p>
-
-<p align="center">
-  https://streak-stats.demolab.com?user=saldanhadriano&theme=tokyonight
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced AI Agent Architectures
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Cloud-Native Data Platforms
-- MLOps & LLMOps
-- Enterprise AI Solutions
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/adrianosaldanha" target="_blank">
-    .shields.io/badge/LinkedIn-Adriano_Saldanha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-📧 **saldanha.adriano@hotmail.com**
-
----
-
-## 👀 Profile Views
-
-https://komarev.com/ghpvc/?username=saldanhadriano&style=for-the-badge&color=blue
-
----
-
-> "Data tells stories. Artificial Intelligence helps us understand them. Engineering turns them into reality."
+- Dashboard development
+- KPI analysis
+- Data visualization
+- Analytical reports
+- Data storytelling
+- Power
