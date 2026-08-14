@@ -25,29 +25,32 @@ I enjoy designing scalable data solutions, building intelligent workflows, devel
 
 ### Programming Languages
 
-![Python](https://img.shields.iohon-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cs&logoColor=white
-![SQL](https://elds.io/badge/SQL-336791?style=for-the-badge
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/SQL-336791?style=for-the-badge
 
 ### Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbilack
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292e-badge&logo=microsoftsqlserver&logoColor=white
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-b=mysql&logoColor=white
-![Oracle](https://img.shields.io/badge/Oracle-F80000?styleadge&logo=oracle&logoColor=white
+https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
 
 ### AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColoricrosoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-5E5E5E?style=fors](https://img.shields.io/badge/AI_Agents-412991?style=for-themation](https://img.shields.io/badge/Automation-00A3E0?style
+https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/Microsoft_Copilot-5E5E5E?style=for-the-badge
+https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge
+https://img.shields.io/badge/Automation-00A3E0?style=for-the-badge
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&n&logoColor=white
-![Arduino](https://img.shields.io/badge/Arduino-00979Dthe-badge&logo=arduino&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
 
 ---
 
@@ -69,5 +72,43 @@ I enjoy designing scalable data solutions, building intelligent workflows, devel
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saldanhadriano&show_icons=true&theme=true
-  <img height="180em" src="https://github-readme-stats.vercel.app
+  https://github-readme-stats.vercel.app/api?username=saldanhadriano&show_icons=true&theme=tokyonight&count_private=true
+  https://github-readme-stats.vercel.app/api/top-langs/?username=saldanhadriano&layout=compact&theme=tokyonight
+</p>
+
+<p align="center">
+  https://streak-stats.demolab.com?user=saldanhadriano&theme=tokyonight
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AI Agent Architectures
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Cloud-Native Data Platforms
+- MLOps & LLMOps
+- Enterprise AI Solutions
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/adrianosaldanha" target="_blank">
+    .shields.io/badge/LinkedIn-Adriano_Saldanha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 **saldanha.adriano@hotmail.com**
+
+---
+
+## 👀 Profile Views
+
+https://komarev.com/ghpvc/?username=saldanhadriano&style=for-the-badge&color=blue
+
+---
+
+> "Data tells stories. Artificial Intelligence helps us understand them. Engineering turns them into reality."
